@@ -1,2 +1,4 @@
-# 2031
-## Coding questions from 2031 textbook "The C Programming"
+# EECS 2031
+## Introduction 
+Codes from exercises in The C Programming answer book
+## Contents
