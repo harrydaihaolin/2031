@@ -1,4 +1,4 @@
-#include <stdio.h>
+include <stdio.h>
 
 /* escape : expand newline and tab into visible sequences */
 void escape(char s[],char t[])
